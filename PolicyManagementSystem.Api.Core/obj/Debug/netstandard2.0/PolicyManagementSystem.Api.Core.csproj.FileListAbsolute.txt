@@ -1,0 +1,11 @@
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\bin\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.deps.json
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\bin\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\bin\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.pdb
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.AssemblyInfoInputs.cache
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.AssemblyInfo.cs
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.pdb
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Core\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.csprojAssemblyReference.cache

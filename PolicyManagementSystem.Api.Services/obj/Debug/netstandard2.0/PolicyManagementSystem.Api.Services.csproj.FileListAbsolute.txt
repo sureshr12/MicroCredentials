@@ -1,0 +1,14 @@
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\bin\Debug\netstandard2.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\bin\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.deps.json
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\bin\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\bin\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.pdb
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\bin\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\bin\Debug\netstandard2.0\PolicyManagementSystem.Api.Core.pdb
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.csprojAssemblyReference.cache
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.AssemblyInfoInputs.cache
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.AssemblyInfo.cs
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.csproj.CopyComplete
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.dll
+C:\Users\dotnetcloudmc40\source\repos\PolicyManagementSystem\PolicyManagementSystem.Api.Services\obj\Debug\netstandard2.0\PolicyManagementSystem.Api.Services.pdb
